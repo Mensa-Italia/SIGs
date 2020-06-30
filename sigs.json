@@ -1,12 +1,112 @@
-[
+[  
+  {
+    "name": "MIOG",
+    "link": "https://www.facebook.com/groups/MensaItalia/",
+    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_miog.jpg"
+  },
+  {
+    "name": "Sig Flaming And Trolling",
+    "link": "https://www.facebook.com/groups/1719421628122906/",
+    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_flaming.jpg"
+  },
+  {
+    "name": "Sig Tecnologia",
+    "link": "https://www.facebook.com/groups/sigtecnologia/",
+    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_tecnologia.jpg"
+  },
+  {
+    "link": "https://www.facebook.com/groups/259962521209761/",
+    "name": "Sig Stile Bellezza e Arte",
+    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_stile_bellezza_arte.jpg"
+  },
+  {
+    "name": "Sig Skeptical",
+    "link": "https://www.facebook.com/groups/420332905062409/",
+    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_skeptical.jpg"
+  },
+  {
+    "name": "Sig Salute e Benessere",
+    "link": "https://www.facebook.com/groups/sigmenssanaincorporesano",
+    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_salute_benessere.jpg"
+  },
+  {
+    "name": "Sig Ricerca sull'intelligenza",
+    "link": "https://www.facebook.com/groups/1977792852250654/",
+    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_ricerca_sull_intelligenza.jpg"
+  },
+  {
+    "name": "Sig Rainbow",
+    "link": "https://www.facebook.com/groups/422257988377354/",
+    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_rainbow.jpg"
+  },
+  {
+    "name": "Sig Politica",
+    "link": "https://www.facebook.com/groups/274940252649779/",
+    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_politica.jpg"
+  },
+  {
+    "name": "Sig Motori",
+    "link": "https://www.facebook.com/groups/motorimensani/",
+    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_motori.jpg"
+  },
+  {
+    "name": "Sig Libri",
+    "link": "https://www.facebook.com/groups/257025094501775/",
+    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_libri.jpg"
+  },
+  {
+    "name": "Sig Humanitas",
+    "link": "https://www.facebook.com/groups/398889487559205/",
+    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_humanitas.jpg"
+  },
+  {
+    "name": "Sig Giochi",
+    "link": "https://www.facebook.com/groups/456326971174954/",
+    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_giochi.jpg"
+  },
+  {
+    "name": "Sig Genitori",
+    "link": "https://www.facebook.com/groups/siggenitori/",
+    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_genitori.jpg"
+  },
+  {
+    "name": "Sig Forti di Testa",
+    "link": "https://www.facebook.com/groups/517555231704182/",
+    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_forti_di_testa.jpg"
+  },
+  {
+    "name": "Sig Cryptovalute",
+    "link": "https://www.facebook.com/groups/348857848911700/",
+    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_cryptovalute.jpg"
+  },
+  {
+    "name": "Sig Cinofilia",
+    "link": "https://www.facebook.com/groups/883452132040041/",
+    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_cinofilia.jpg"
+  },
+  {
+    "name": "Sig Cinema",
+    "link": "https://www.facebook.com/groups/1261001867247150/",
+    "image": "https://www.mensa.it/wp-content/uploads/2019/12/sig_cinema.jpg"
+  },
+  {
+    "name": "Sig Chimica",
+    "link": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_chimica.jpg",
+    "image": "https://www.facebook.com/groups/sigchimica/"
+  },
+  {
+    "name": "Sig Business",
+    "link": "https://www.facebook.com/groups/sigbusiness/",
+    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_business.jpg"
+  },
+  {
+    "name": "Sig Armi e Tiro",
+    "link": "https://www.facebook.com/groups/2927299450673592/",
+    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_armi_e_tiro.jpg"
+  },
   {
     "name": "Sig Acquariofilia",
     "link": "https://www.facebook.com/groups/1739607052753863/",
     "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_acquariofilia.jpg"
-  },
-  {
-    "name": "Sig Armi E Tiro",
-    "link": "https://www.facebook.com/groups/2927299450673592/",
-    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_armi_e_tiro.jpg"
   }
 ]
