@@ -1,8 +1,88 @@
 
 [  
   {
+    "name": "Mensa Abruzzo",
+    "link": "https://www.facebook.com/groups/mensa.abruzzo",
+    "image": "https://www.mensa.it/wp-content/uploads/2020/07/locals_abruzzo.jpg"
+  },
+  {
+    "name": "Mensa Calabria",
+    "link": "https://www.facebook.com/groups/1038103636384558",
+    "image": "https://www.mensa.it/wp-content/uploads/2020/07/locals_calabria.jpg"
+  },
+  {
+    "name": "Mensa Campania",
+    "link": "https://www.facebook.com/groups/mensa.campania",
+    "image": "https://www.mensa.it/wp-content/uploads/2020/07/106985514_10159978262089689_2308331201746654538_o.jpg"
+  },
+  {
+    "name": "Mensa Emilia Romagna",
+    "link": "https://www.facebook.com/groups/MensaEmiliaRomagna",
+    "image": "https://www.mensa.it/wp-content/uploads/2020/07/locals_emilia_romagna.jpg"
+  },
+  {
+    "name": "Mensa Friuli-Venezia Giulia",
+    "link": "https://www.facebook.com/groups/201939761195",
+    "image": "https://www.mensa.it/wp-content/uploads/2020/07/locals_friuli.jpg"
+  },
+  {
+    "name": "Mensa Lazio",
+    "link": "https://www.facebook.com/groups/mensalazio",
+    "image": "https://www.mensa.it/wp-content/uploads/2020/07/locals_lazio.jpg"
+  },
+  {
+    "name": "Mensa Liguria",
+    "link": "https://www.facebook.com/groups/1767136940240733",
+    "image": "https://www.mensa.it/wp-content/uploads/2020/07/locals_liguria.jpg"
+  },
+  {
+    "name": "Mensa Lombardia",
+    "link": "https://www.facebook.com/groups/MensaLombardia",
+    "image": "https://www.mensa.it/wp-content/uploads/2020/07/locals_lombardia.jpg"
+  },
+  {
+    "name": "Mensa Marche",
+    "link": "https://www.facebook.com/groups/mensamarche",
+    "image": "https://www.mensa.it/wp-content/uploads/2020/07/locals_marche.jpg"
+  },
+  {
+    "name": "Mensa Molise",
+    "link": "https://www.facebook.com/groups/2048712178741415/",
+    "image": "https://www.mensa.it/wp-content/uploads/2020/07/locals_molise.jpg"
+  },
+  {
     "name": "Mensa Piemonte e Valle d'Aosta",
     "link": "https://www.facebook.com/groups/398148000229583/",
-    "image": "https://www.mensa.it/wp-content/uploads/2020/07/106985514_10159978262089689_2308331201746654538_o.jpg"
+    "image": "https://www.mensa.it/wp-content/uploads/2020/07/locals_piemonte.jpg"
+  },
+  {
+    "name": "Mensa Puglia e Basilicata",
+    "link": "https://www.facebook.com/groups/1935321100021789/",
+    "image": "https://www.mensa.it/wp-content/uploads/2020/07/locals_puglia_basilicata.jpg"
+  },
+  {
+    "name": "Mensa Sardegna",
+    "link": "https://www.facebook.com/groups/153352178717866",
+    "image": "https://www.mensa.it/wp-content/uploads/2020/07/locals_sardegna.jpg"
+  },
+  {
+    "name": "Mensa Sicilia",
+    "link": "https://www.facebook.com/groups/205854192493",
+    "image": "https://www.mensa.it/wp-content/uploads/2020/07/locals_sicilia.jpg"
+  },
+  {
+    "name": "Mensa Toscana",
+    "link": "https://www.facebook.com/groups/383602401666298",
+    "image": "https://www.mensa.it/wp-content/uploads/2020/07/locals_toscana.jpg"
+  },
+  {
+    "name": "Mensa Trentino Alto Adige",
+    "link": "https://www.facebook.com/groups/505937259528925",
+    "image": "https://www.mensa.it/wp-content/uploads/2020/07/locals_trentino.jpg"
+  },
+  {
+    "name": "Mensa Veneto",
+    "link": "https://www.facebook.com/groups/125130242261",
+    "image": "https://www.mensa.it/wp-content/uploads/2020/07/locals_veneto.jpg"
   }
  ]
