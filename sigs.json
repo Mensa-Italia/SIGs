@@ -2,32 +2,32 @@
   {
     "name": "Sig Eros",
     "link": "https://www.facebook.com/groups/381839229679491/",
-    "image": "https://www.mensa.it/wp-content/uploads/2020/11/SIG-EROS.png"
+    "image": "https://raw.githubusercontent.com/Mensa-Italia/SIGs/master/SIGS/SIG_Eros.jpg"
   },
   {
     "name": "Sig Flaming And Trolling",
     "link": "https://www.facebook.com/groups/1719421628122906/",
-    "image": "https://www.mensa.it/wp-content/uploads/2020/07/SIG-BDSM.png"
+    "image": "https://raw.githubusercontent.com/Mensa-Italia/SIGs/master/SIGS/SIG_Flaming_and_trolling.jpg"
   },
   {
     "name": "Sig Tecnologia",
     "link": "https://www.facebook.com/groups/sigtecnologia/",
-    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_tecnologia.jpg"
+    "image": "https://raw.githubusercontent.com/Mensa-Italia/SIGs/master/SIGS/SIG_Tecnologia.jpg"
   },
   {
     "link": "https://www.facebook.com/groups/259962521209761/",
     "name": "Sig Stile Bellezza e Arte",
-    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_stile_bellezza_arte.jpg"
+    "image": "https://raw.githubusercontent.com/Mensa-Italia/SIGs/master/SIGS/SIG_Stile_Bellezza_Arte.jpg"
   },
   {
     "name": "Sig Skeptical",
     "link": "https://www.facebook.com/groups/420332905062409/",
-    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_skeptical.jpg"
+    "image": "https://raw.githubusercontent.com/Mensa-Italia/SIGs/master/SIGS/SIG_Skeptical.jpg"
   },
   {
-    "name": "Sig Salute e Benessere",
+    "name": "Sig Fitness Salute Benessere",
     "link": "https://www.facebook.com/groups/sigmenssanaincorporesano",
-    "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_salute_benessere.jpg"
+    "image": "https://raw.githubusercontent.com/Mensa-Italia/SIGs/master/SIGS/Sig_Fitness_Salute_Benessere.jpg"
   },
   {
     "name": "Sig Ricerca sull'intelligenza",
@@ -114,8 +114,13 @@
     "link": "https://www.facebook.com/groups/1020887007929966",
     "image": "https://www.mensa.it/wp-content/uploads/2020/09/SAVE_20200927_085454.jpg"
   },
-{
+  {
     "name": "Sig Medicina",
+    "link": "https://www.facebook.com/groups/SIGmedicina",
+    "image": "https://www.mensa.it/wp-content/uploads/2020/12/IMG_20201205_171300_117.jpg"
+  },
+  {
+    "name": "Sig Borsa",
     "link": "https://www.facebook.com/groups/SIGmedicina",
     "image": "https://www.mensa.it/wp-content/uploads/2020/12/IMG_20201205_171300_117.jpg"
   }
