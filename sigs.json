@@ -110,9 +110,9 @@
     "image": "https://www.mensaitalia.it/wp-content/uploads/2019/12/sig_acquariofilia.jpg"
   },
   {
-    "name": "Sig Donazioni",
+    "name": "Sig Volontariato",
     "link": "https://www.facebook.com/groups/1020887007929966",
-    "image": "https://www.mensa.it/wp-content/uploads/2020/09/SAVE_20200927_085454.jpg"
+    "image": "https://raw.githubusercontent.com/Mensa-Italia/SIGs/master/SIGS/SIG_Volontariato.jpg"
   },
   {
     "name": "Sig Medicina",
@@ -121,7 +121,52 @@
   },
   {
     "name": "Sig Borsa",
-    "link": "https://www.facebook.com/groups/SIGmedicina",
-    "image": "https://www.mensa.it/wp-content/uploads/2020/12/IMG_20201205_171300_117.jpg"
+    "link": "https://www.facebook.com/groups/834647573276042",
+    "image": "https://raw.githubusercontent.com/Mensa-Italia/SIGs/master/SIGS/SIG_Borsa.jpg"
+  },
+  {
+    "name": "Sig Emozione",
+    "link": "https://www.facebook.com/groups/mensaemozione/",
+    "image": "https://raw.githubusercontent.com/Mensa-Italia/SIGs/master/SIGS/SIG_Emozione.jpg"
+  },
+  {
+    "name": "Sig Fai da Te",
+    "link": "https://www.facebook.com/groups/sigfaidate",
+    "image": "https://raw.githubusercontent.com/Mensa-Italia/SIGs/master/SIGS/SIG_Fai_Da_Te.jpg"
+  },
+  {
+    "name": "Sig Fotografia",
+    "link": "https://www.facebook.com/groups/sigfotografia",
+    "image": "https://raw.githubusercontent.com/Mensa-Italia/SIGs/master/SIGS/SIG_Fotografia.jpg"
+  },
+  {
+    "name": "Sig Giovani",
+    "link": "https://www.facebook.com/groups/siggiovani",
+    "image": "https://raw.githubusercontent.com/Mensa-Italia/SIGs/master/SIGS/NEEDONE"
+  },
+  {
+    "name": "Sig Psicologia",
+    "link": "https://www.facebook.com/groups/543431533064405",
+    "image": "https://raw.githubusercontent.com/Mensa-Italia/SIGs/master/SIGS/SIG_Psicologia.jpg"
+  },
+  {
+    "name": "Sig Scienza",
+    "link": "https://www.facebook.com/groups/sigscienze",
+    "image": "https://raw.githubusercontent.com/Mensa-Italia/SIGs/master/SIGS/SIG_Scienza.jpg"
+  },
+  {
+    "name": "Sig Scrivere",
+    "link": "https://www.facebook.com/groups/541088712729188/",
+    "image": "https://raw.githubusercontent.com/Mensa-Italia/SIGs/master/SIGS/NEEDONE"
+  },
+  {
+    "name": "Sig Sostenibilità",
+    "link": "https://www.facebook.com/groups/734741670273350/",
+    "image": "https://raw.githubusercontent.com/Mensa-Italia/SIGs/master/SIGS/NEEDONE"
+  },
+  {
+    "name": "Sig Viaggi",
+    "link": "https://www.facebook.com/groups/1766936480268184",
+    "image": "https://raw.githubusercontent.com/Mensa-Italia/SIGs/master/SIGS/SIG_Viaggi.jpg"
   }
 ]
