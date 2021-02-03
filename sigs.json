@@ -193,5 +193,10 @@
     "name": "Sig Cucina",
     "link": "https://www.facebook.com/groups/mensaSIGCucina",
     "image": "https://raw.githubusercontent.com/Mensa-Italia/SIGs/master/SIGS/SIG_Cucina.jpg"
+  },
+  {
+    "name": "Sig Scacchi",
+    "link": "https://www.facebook.com/groups/2970341236534012",
+    "image": "https://raw.githubusercontent.com/Mensa-Italia/SIGs/master/SIGS/SIG_Scacchi.jpg"
   }
 ]
